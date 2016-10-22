@@ -2,3 +2,5 @@ gittest2 2 1
 gittest2 2 2
 
 gitRep1的gittest2新增了内容
+
+gitRep1的rep1bra1分支修改了test2.txt的内容
