@@ -1,18 +1,2 @@
 gittest2 2 1
 gittest2 2 2
-<<<<<<< HEAD
-gittest2 2 3
-gittest2 2 4
-checkout之前已暂存
-=======
-
-
-
-gittest 2 3
-
-gitRep1的gittest2新增了内容
-
-
-git ADSEFAWE
-
->>>>>>> origin/brathree
